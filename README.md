@@ -1,4 +1,4 @@
-# Student_Dataset_Analysis
+# Student Dataset Analysis
 This project analyzes the relationship between students performance in Mathematics and Portuguese courses and their social life factors.  The analysis explores how variables such as social activities, free time and relationship correlate with academic performance using exploratory data analysis and basic machine learning techniques.
 ## Dataset
 The analysis is based on student performance datasets for Mathematics and
@@ -11,5 +11,9 @@ Portuguese courses.
 - Matplotlib / Seaborn
 - Scikit-learn
 - Jupyter Notebook
+
+## Collaboration
+This project was completed as a group assignment.
+
 - ## Notes
 This repository is shared for educational and portfolio purposes.
